@@ -1,0 +1,28 @@
+{
+  "name": "dinstar-gateway-utilities",
+  "version": "0.0.1",
+  "description": "Dinstar gateway command lines utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theodorosidmar/dinstar-gateway-utilities.git"
+  },
+  "keywords": [
+    "dinstar",
+    "gateway",
+    "sms"
+  ],
+  "author": "Sidmar Theodoro <theodorosidmar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theodorosidmar/dinstar-gateway-utilities/issues"
+  },
+  "homepage": "https://github.com/theodorosidmar/dinstar-gateway-utilities#readme",
+  "dependencies": {
+    "command-line-args": "^4.0.7",
+    "dinstar-sms-api": "^0.1.7"
+  }
+}
