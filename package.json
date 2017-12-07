@@ -23,6 +23,7 @@
   "homepage": "https://github.com/theodorosidmar/dinstar-gateway-utilities#readme",
   "dependencies": {
     "command-line-args": "^4.0.7",
-    "dinstar-sms-api": "^0.1.7"
+    "dinstar-sms-api": "^0.1.8",
+    "sleep": "^5.1.1"
   }
 }
